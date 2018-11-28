@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "78928218419",
+    "firebase_url": "https://cleanit-dae4f.firebaseio.com",
+    "project_id": "cleanit-dae4f",
+    "storage_bucket": "cleanit-dae4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78928218419:android:2f96fbf48bf3de18",
+        "android_client_info": {
+          "package_name": "com.example.zhaziraun.cleanit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78928218419-ng1vmco69cdfrl4aopsekobheo2f08ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zhaziraun.cleanit",
+            "certificate_hash": "ffa487f12a01ed0eda46229721e8410253d4dc13"
+          }
+        },
+        {
+          "client_id": "78928218419-42qmh5nqv72kuptivqtgc2ege4n7mf7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-y6MMp9MeEI7psDoLIVepqmR_ylJrm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78928218419-42qmh5nqv72kuptivqtgc2ege4n7mf7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
